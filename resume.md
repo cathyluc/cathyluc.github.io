@@ -5,8 +5,8 @@ cathyluc@uw.edu | http://www.cathyluc.com | http://www.linkedin.com/in/cathyluc
 # Summary
 
 ```
-Highly advance in the ue of GIS and geographic statistics. High interest in utilizing GIS technologies on improving contemparary urbanlization 
-in developing countries and assist urban planning through analysis of "big data".
+- Highly advance in the ue of GIS and geographic statistics. 
+- High interest in utilizing GIS technologies on improving contemparary urbanlization in developing countries.
 ```
 
 # Work Experience
