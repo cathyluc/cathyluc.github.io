@@ -5,7 +5,7 @@ cathyluc@uw.edu | http://www.cathyluc.com | http://www.linkedin.com/in/cathyluc
 # Summary
 
 ```
-- Highly advance in the ue of GIS and geographic statistics. 
+- Skilled in the use of GIS and geographic statistics. 
 - High interest in utilizing GIS technologies on improving contemparary urbanlization in developing countries.
 ```
 
